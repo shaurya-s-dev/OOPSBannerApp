@@ -2,7 +2,7 @@
 
 public class UC7 {
 
-    static class CharacterPatternMap {
+    public static class CharacterPatternMap {
         private final Character character;
         private final String[] pattern;
 
